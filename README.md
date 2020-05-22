@@ -7,5 +7,5 @@
 
 
 ## results on pedestrain trajectories
-![Trajectory](https://github.com/arsalhuda24/VAE-Trajectory-Prediction/tree/master/images/results.png)
+![Trajectory](https://github.com/arsalhuda24/VAE-Trajectory-Prediction/blob/master/results.png)
 
