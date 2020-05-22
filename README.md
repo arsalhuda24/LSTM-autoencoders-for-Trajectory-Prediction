@@ -8,4 +8,4 @@
 
 ## results on pedestrain trajectories
 ![Trajectory](https://github.com/arsalhuda24/VAE-Trajectory-Prediction/tree/master/images/results.png)
-note blue == SGAN-P yellow= ours
+
