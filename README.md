@@ -7,7 +7,7 @@
 
 
 
-## results on pedestrain trajectories
+## Results on pedestrain trajectories (ETH-Univ and ETH-Hotel Sequences) 
 ![Trajectory](https://github.com/arsalhuda24/VAE-Trajectory-Prediction/blob/master/results.png)
 #### Note 
 Blue == SGAN-P
