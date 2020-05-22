@@ -6,11 +6,11 @@
 ![Model](https://github.com/arsalhuda24/VAE-Trajectory-Prediction/blob/master/model.png)
 
 
-## Semantic output comparison of SEGNet and PSP-Net. 
+## Semantic segmentation comparison of Seg-Net and Psp-Net. 
 ![Trajectory](https://github.com/arsalhuda24/VAE-Trajectory-Prediction/blob/master/PSP-NET.png)
 
 
-## Results on pedestrain trajectories (ETH-Univ and ETH-Hotel Sequences) 
+## Results on pedestrain trajectories 
 ![Trajectory](https://github.com/arsalhuda24/VAE-Trajectory-Prediction/blob/master/results.png)
 #### Note 
 Blue == SGAN-P
