@@ -2,7 +2,7 @@
 
 
 ## Model 
-### This is RNN-AE model. VAE version coming soon. 
+### This is RNN-AE model.
 ![Model](https://github.com/arsalhuda24/VAE-Trajectory-Prediction/blob/master/model.png)
 
 
