@@ -1,4 +1,4 @@
-# VAE-Trajectory-Prediction
+# CNN, Segmentation or Semantic Embedding- Evaluating Scene Context for Trajectory Prediction
 
 
 ## Model 
