@@ -6,7 +6,7 @@
 
 ## Model 
 ### This is RNN-AE model.
-![Model](https://github.com/arsalhuda24/VAE-Trajectory-Prediction/blob/master/model.png)
+![Model](https://github.com/arsalhuda24/VAE-Trajectory-Prediction/blob/master/images/model1.png)
 
 
 ## Semantic segmentation comparison of Seg-Net and Psp-Net. 
