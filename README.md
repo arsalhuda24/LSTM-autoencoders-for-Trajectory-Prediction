@@ -1,5 +1,5 @@
 # CNN, Segmentation or Semantic Embedding- Evaluating Scene Context for Trajectory Prediction
-This is the code implementation for the following paper of ours. If you find it useful please cite as follows:
+Please cite as follows if you find this implementation useful.
 
 ```
 @published{Syed. A 2020,
