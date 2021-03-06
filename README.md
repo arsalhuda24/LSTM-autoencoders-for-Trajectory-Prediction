@@ -5,7 +5,9 @@ This is the code implementation for the following paper of ours. If you find it 
 @published{Syed. A 2020,
     title        = {{CNN, Segmentation or Semantic Embedding: Evaluating Scene Context for Trajectory Prediction}},
     author       = {Arsal Syed, Brendan Morris},
-    booktitle    = {In: Bebis G. et al. (eds) Advances in Visual Computing. ISVC 2020. Lecture Notes in Computer Science, vol 12510. Springer, Cham. https://doi.org/10.1007/978-3-030-64559-5_56},
+    booktitle    = {In: Bebis G. et al. (eds) Advances in Visual Computing. ISVC 2020. 
+                    Lecture Notes in Computer Science, vol 12510. Springer, 
+                    Cham. https://doi.org/10.1007/978-3-030-64559-5_56},
     year         = 2020
     
 }
