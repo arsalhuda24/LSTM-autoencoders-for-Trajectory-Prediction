@@ -30,3 +30,4 @@ Please cite as follows if you find this implementation useful.
 
 ![Trajectory](https://github.com/arsalhuda24/VAE-Trajectory-Prediction/blob/master/images/segmentation-semantic-embedding.png)
 
+for any questions please send an email to syeda3@unlv.nevada.edu
