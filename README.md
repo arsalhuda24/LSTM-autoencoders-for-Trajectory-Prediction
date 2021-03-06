@@ -21,11 +21,11 @@ Please cite as follows if you find this implementation useful.
 ![Model](https://github.com/arsalhuda24/VAE-Trajectory-Prediction/blob/master/images/model1.png)
 
 
-## Semantic segmentation comparison of Seg-Net and Psp-Net. 
+## Semantic Segmentation Comparison of Seg-Net and PSP-Net. 
 ![Trajectory](https://github.com/arsalhuda24/VAE-Trajectory-Prediction/blob/master/images/PSP-NET.png)
 
 
-## Results on pedestrain trajectories 
+## Results on Pedestrain Trajectories 
 ![Trajectory](https://github.com/arsalhuda24/VAE-Trajectory-Prediction/blob/master/images/noscene-segmentation-scene-embedding.png)
 
 ![Trajectory](https://github.com/arsalhuda24/VAE-Trajectory-Prediction/blob/master/images/segmentation-semantic-embedding.png)
