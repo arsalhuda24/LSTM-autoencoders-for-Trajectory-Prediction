@@ -27,6 +27,10 @@ This is the code implementation for the following paper of ours. If you find it 
 
 ## Results on pedestrain trajectories 
 ![Trajectory](https://github.com/arsalhuda24/VAE-Trajectory-Prediction/blob/master/images/noscene-segmentation-scene-embedding.png)
+
+![Trajectory](https://github.com/arsalhuda24/VAE-Trajectory-Prediction/blob/master/images/segmentation-scene-embedding.png)
+
+
 #### Note 
 Blue == SGAN-P
 Yellow == Ours
