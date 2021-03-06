@@ -30,7 +30,3 @@ This is the code implementation for the following paper of ours. If you find it 
 
 ![Trajectory](https://github.com/arsalhuda24/VAE-Trajectory-Prediction/blob/master/images/segmentation-semantic-embedding.png)
 
-
-#### Note 
-Blue == SGAN-P
-Yellow == Ours
