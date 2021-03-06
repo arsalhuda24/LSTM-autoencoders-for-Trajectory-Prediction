@@ -10,11 +10,11 @@
 
 
 ## Semantic segmentation comparison of Seg-Net and Psp-Net. 
-![Trajectory](https://github.com/arsalhuda24/VAE-Trajectory-Prediction/blob/master/PSP-NET.png)
+![Trajectory](https://github.com/arsalhuda24/VAE-Trajectory-Prediction/blob/master/images/PSP-NET.png)
 
 
 ## Results on pedestrain trajectories 
-![Trajectory](https://github.com/arsalhuda24/VAE-Trajectory-Prediction/blob/master/results.png)
+![Trajectory](https://github.com/arsalhuda24/VAE-Trajectory-Prediction/blob/master/images/results.png)
 #### Note 
 Blue == SGAN-P
 Yellow == Ours
